@@ -1,11 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * The Class Frame.
- * @author Anthony Bobsin
- */
-
 public class Frame{
 	
 	JFrame fframe;
